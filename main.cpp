@@ -10,10 +10,6 @@
 
 int main(void)
 {
-    std::list<std::string> l = getThisFolder();
-
-    for (std::string obj = l.front(); l.size() != 0; l.pop_front()) {
-        std::cout << l.front() << std::endl;
-    }
+    // Add a function to be tested
     return 0;
 }
