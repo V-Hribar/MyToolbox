@@ -1,0 +1,16 @@
+#Folder {root}/Build
+Build/cmake_install.cmake
+Build/CMakeCache.txt
+Build/main
+Build/Makefile
+Build/CMakeFiles
+Build/Mylib
+
+#Folder {root}/Mylib/Build
+Mylib/Build/cmake_install.cmake
+Mylib/Build/CMakeCache.txt
+Mylib/Build/main
+Mylib/Build/Makefile
+Mylib/Build/CMakeFiles
+Mylib/Build/Mylib
+
